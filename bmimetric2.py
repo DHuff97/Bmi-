@@ -25,7 +25,7 @@ elif tbmi <= 24.9:
 elif tbmi <= 29.9:
     print(f"bmi is: {tbmi}, You are overweight")
 else:
-    print(f"bmi is: {tbmi}, obese")
+    print(f"bmi is: {tbmi}, status is obese")
 
 
 
